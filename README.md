@@ -1,2 +1,3 @@
 # HRMS-BY-SMIT-LAD
 The purpose of this document is to define the functional and non-functional requirements of a Human Resource Management System HRMS . The system aims to digitize and streamline core HR operations such as employee onboarding, profile management, attendance tracking, leave management, payroll visibility...
+https://b10940c4-4b1d-41a4-9fc9-eac03854de29-00-28o1riweb5zhn.janeway.replit.dev
